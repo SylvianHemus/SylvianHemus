@@ -3,7 +3,10 @@
 
 
 
-test
+
+<div align="center">
+    <img src="./css/readme.svg" width="400" height="400" alt="css-in-readme">
+</div>
 
 [Peanut Butter Jelly Time](./images/peanutbutterjellytime.gif) Salutations to the world at large. I am quite novel (One SI Unit of time, if you please - I have to shift slightly this chimeric cutlery implement). My name is Katy but you may call me Spheniscidae infernus (I'm chortling at this nom de plume!). As may be observed, my actions are like the sub-atomic particles observed in the Large Hadron Collider with infinite permutations. This is why I have referred myself here. To meet others who move like animicules in pond water.
 
