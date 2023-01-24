@@ -12,6 +12,9 @@ I hope I have been cordial enough to engage more acquaintances. INFERNUS!!! Oh d
 Amour and breadsnacks,
 
 Spheniscidae infernus
+![Peanut Butter Jelly Time](images/blinkingdragon.gif)
+
+![Peanut Butter Jelly Time](images/fairy_bounce02.gif) ![Peanut Butter Jelly Time](images/gif-girlfairyflauta.gif) ![Peanut Butter Jelly Time](images/SWINGING_EMAIL.GIF)
 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⣤⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⣀⣀⣀⣀⣀⣀⡴⠋⠀⠀⣸⣩⣀⣀⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
@@ -20,7 +23,7 @@ Spheniscidae infernus
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡄⣼⠀⠀⠀⣸⠃⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⠿⢻⣿⣷⢻⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣧⢎⡄⠀⢠⡏⠀⠀⠀⠀⢸⠿⣯⣍⠉⠁⣠⣤⣌⣿⣿⣾⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢈⢽⣿⣿⡄⣼⠁⠀⠀⠀⠀⣸⠀⠀⠁⠀⠀⠋⠀⢈⣿⣿⣟⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠃⠉⠀⡟⠀⠀⠀⠀⠀⡿⣆⣠⡆⢀⠀⡄⢠⡆⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠃⠉⠀⡟⠀⠀⠀⠀⠀⡿⣆⣠⡆⢀⠀⡄⢠⡆⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⡇⠀⠀⠀⠀⠀⡏⠈⠉⠂⠸⣄⡻⠞⢹⣿⣿⡟⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⠁⠀⠀⠀⠀⢀⡇⢤⣄⣈⣃⣰⠃⢀⣿⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⠀⠀⠀⠀⠀⢸⣧⡀⠑⠭⢝⣩⣴⣿⣿⣿⣿⣸⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
@@ -48,4 +51,3 @@ Spheniscidae infernus
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢧⡀⠀⠀⠀⠀⠀⠀⠀⠀⢿⡅⠀⠀⠀⠀⠀⠀⣼⠃⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠻⣄⠀⠀⠀⠀⠀⠀⠀⢸⡇⠀⠀⠀⠀⠀⣸⠃⠀⠀⠀⠀⠀⠀ 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⢳⡀⠀⠀⠀⠀⠀⠀⣧⠀⠀⠀⠀⡔⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-
