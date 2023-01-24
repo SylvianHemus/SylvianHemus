@@ -3,16 +3,6 @@
     <div xmlns="http://www.w3.org/1999/xhtml" rel="stylesheet" href="tailwind.css" type="text/css">
       <div>
         <h1>my name is Sylvian</h1>
-	<div class="grid grid-cols-3">
-	  <div>
-	    col 1 test
-	  </div>
-	  <div>
-	    col 2 test
-	  </div>
-	  <div>
-	    col 3 test
-	  </div>
       </div>
     </div>
   </foreignObject>
