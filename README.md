@@ -3,6 +3,9 @@ Programmer and academic philosopher
 # Namespaces
 ## sylvianhemus.com
  Webring and directory tree
+### hum.sylvianhemus.com
+Advocating for FOSS in humanities community, including
+ - emacs tutorials and easy setup
 ### phi.sylvianhemus.com
 Philosophy resources, including 
  - preprints of accepted journal articles
