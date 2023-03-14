@@ -2,8 +2,9 @@
 
 Programmer and academic philosopher
 # Namespaces
+Each namespace has a webring in addition to listed subnames
 ## sylvianhemus.com
- Webring and directory tree
+ Directory tree (top level domain)
 ### hum.sylvianhemus.com
 Advocating for FOSS in humanities community, including
  - emacs tutorials and writers config
@@ -11,28 +12,22 @@ Advocating for FOSS in humanities community, including
 Philosophy resources, including 
  - preprints of accepted journal articles
  - rss feeds on news in the discipline
- - webring
 ### prog.sylvianhemus.com
  Programming resources, including
  - tutorials and tut-blogposts
- - webring
 ### count.sylvianhemus.com
   Accounting and math resources, including
   - accounting resources
   - TeX alternatives
   - fun with plaintext accounting and ledger
-  
 ### grindset.sylvianhemus.com
  - list of my organizations
  - directory of project namespaces that don't have a dedicated company 
  - founder resourcesFairy Bounce
-
-
-
 Programmer and academic philosopher
  - blog on startups
  - rss feed on startups
- - webring
+
 
 Armour and Breadsnacks, 
 
