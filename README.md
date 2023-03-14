@@ -1,6 +1,6 @@
 # About me ![Fairy Bounce](images/fairy_bounce02.gif) 
 
-Programmer and academic philosopher
+Programmer, entrepreneur, academic philosopher
 # Namespaces
 Each namespace has a webring in addition to listed subnames
 ## sylvianhemus.com
