@@ -25,3 +25,5 @@ Philosophy resources, including
 
 
 licensed to Sylvian Hemus LLC
+
+P.S.: Also consider myself a diabolical penguin
