@@ -14,7 +14,7 @@ Philosophy resources, including
  - webring
 ### grindset.sylvianhemus.com
  - list of my organizations
- - directory of project namespaces that don't have a separate company
+ - directory of project namespaces that don't have a dedicated company 
  - founder resources
  - blog on startups
  - rss feed on startups
