@@ -23,8 +23,7 @@ Philosophy resources, including
 ### grindset.sylvianhemus.com
  - list of my organizations
  - directory of project namespaces that don't have a dedicated company 
- - founder resourcesFairy Bounce
-Programmer and academic philosopher
+ - founder resources
  - blog on startups
  - rss feed on startups
 
