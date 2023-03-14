@@ -16,4 +16,4 @@ Philosophy resources, including
  - rss feed on startups
 
 
-Copyright (C) Sylvian Hemus LLC 2023
+Copyright (C) Sylvian Hemus 2023, licensed to Sylvian Hemus LLC
