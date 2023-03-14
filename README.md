@@ -2,7 +2,7 @@
 
 Programmer, entrepreneur, academic philosopher
 # Namespaces
-Each namespace has a webring in addition to listed subnames
+Each namespace has a webring subnamespace in addition to listed subnamespaces
 ## sylvianhemus.com
  Directory tree (top level domain)
 ### hum.sylvianhemus.com
