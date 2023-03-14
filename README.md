@@ -21,4 +21,4 @@ Philosophy resources, including
  - webring
 
 
-Copyright (C) Sylvian Hemus 2023, licensed to Sylvian Hemus LLC
+licensed to Sylvian Hemus LLC
