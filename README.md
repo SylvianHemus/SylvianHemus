@@ -1,4 +1,5 @@
-# About me
+# About me ![Fairy Bounce](images/fairy_bounce02.gif) 
+
 Programmer and academic philosopher
 # Namespaces
 ## sylvianhemus.com
@@ -23,7 +24,7 @@ Philosophy resources, including
  - rss feed on startups
  - webring
 
+Armour and Breadsnacks, 
 
-licensed to Sylvian Hemus LLC
+licensed to Sylvian Hemus LLC![Peanut Butter Jelly Time](images/peanutbutterjellytime.gif)
 
-P.S.: Also consider myself a diabolical penguin
