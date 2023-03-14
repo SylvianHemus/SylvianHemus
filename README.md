@@ -18,6 +18,7 @@ Philosophy resources, including
  - webring
 ### count.sylvianhemus.com
   Accounting and math resources, including
+  - accounting resources
   - TeX alternatives
   - fun with plaintext accounting and ledger
   
