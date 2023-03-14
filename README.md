@@ -18,7 +18,8 @@ Philosophy resources, including
 ### count.sylvianhemus.com
   Accounting and math resources, including
   - accounting resources
-  - TeX alternatives
+  - minimalist TeX alternatives
+  - math typesetting tutorials
   - fun with plaintext accounting and ledger
 ### grindset.sylvianhemus.com
  - list of my organizations
