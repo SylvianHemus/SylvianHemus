@@ -5,7 +5,7 @@ Programmer and academic philosopher
  Webring and directory tree
 ### hum.sylvianhemus.com
 Advocating for FOSS in humanities community, including
- - emacs tutorials and easy setup
+ - emacs tutorials and writers config
 ### phi.sylvianhemus.com
 Philosophy resources, including 
  - preprints of accepted journal articles
