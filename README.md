@@ -25,7 +25,7 @@ Philosophy resources, including
  - directory of project namespaces that don't have a dedicated company 
  - founder resources
  - blog on startups
- - rss feed on startups
+ - rss feed aggregate on startups and tech space
 
 
 Armour and Breadsnacks, 
