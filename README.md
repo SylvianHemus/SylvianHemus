@@ -15,13 +15,13 @@ Philosophy resources, including
 ### prog.sylvianhemus.com
  Programming resources, including
  - tutorials and tut-blogposts
-### count.sylvianhemus.com
+### cnt.sylvianhemus.com
   Accounting and math resources, including
   - accounting resources
   - minimalist TeX alternatives
   - math typesetting tutorials
   - fun with plaintext accounting and ledger
-### grindset.sylvianhemus.com
+### gset.sylvianhemus.com
  - list of my organizations
  - directory of project namespaces that don't have a dedicated company 
  - founder resources
