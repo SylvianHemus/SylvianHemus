@@ -9,6 +9,7 @@ Each namespace has a webring subnamespace in addition to listed subnamespaces
  Programming resources, including
  - tutorials and tut-blogposts
  ### gset.sylvianhemus.com
+ Entrepreneur shit
  - list of my organizations
  - directory of project namespaces that don't have a dedicated company 
  - founder resources
