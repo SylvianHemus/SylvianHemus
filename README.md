@@ -1,4 +1,4 @@
-![Fairy Bounce](images/fairy_bounce02.gif) 
+![Fairy Bounce](images/mercury.jpeg) 
 
 
 licensed to Sylvian Hemus LLC![Peanut Butter Jelly Time](images/peanutbutterjellytime.gif)
